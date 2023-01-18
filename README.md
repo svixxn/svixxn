@@ -22,6 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svixxn&theme=tokyonight)
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svixxn&" alt="svixxn" /></p>
 
