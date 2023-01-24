@@ -14,7 +14,7 @@ https://t.me/yoskrilldroppinhard
 <a href="https://twitter.com/kijbakovec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kijbakovec" height="30" width="40" /></a>
 <a href="https://instagram.com/svixxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="svixxn" height="30" width="40" /></a>
 <a href="https://discord.gg/svxxn#7344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svxxn#7344" height="30" width="40" /></a>
- <a href="https://t.me/yoskrilldroppinhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="yoskrilldroppinhard" height="30" width="40" /></a>
+ <a href="https://t.me/yoskrilldroppinhard" target="blank"><img align="left" alt="Maxim Bakovetskiy | Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" style="max-width: 100%;"></a>
 </p>
 
 
