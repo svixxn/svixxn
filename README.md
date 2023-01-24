@@ -1,4 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=svixxn🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 <h3 align="center">A Full-Stack Developer from Ukraine</h3>
 <img align="right" alt="Code" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
