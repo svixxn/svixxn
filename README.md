@@ -1,13 +1,4 @@
 <h3 align="center">A Full-Stack Developer from Ukraine</h3>
-<img align="right" alt="Code" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=svixxn&label=Profile%20views&color=0e75b6&style=flat" alt="svixxn" /> </p>
-
-- 🌱 I’m currently learning **React, Node.js**
-
-- 💬 Ask me about **PHP, JS**
-
-- 📫 How to reach me **kn211_bmo@student.ztu.edu.ua**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svixxn&theme=tokyonight)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svixxn&" alt="svixxn" /></p>
 
