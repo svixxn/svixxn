@@ -15,8 +15,22 @@ Full-Stack Developer From Ukraine
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=svixxn&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svixxn&hide=TeX&layout=compact&theme=dark)
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/svixxn/svixxn">
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=svixxn&show_icons=true&theme=dark&hide_border=true" alt="svixxn" style="max-width: 100%;">
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/svixxn/svixxn">
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svixxn&layout=compact&theme=dark&hide_border=true" alt="svixxn" style="max-width: 100%;">
+        </a>
+      </th>
+      </tr>
+  </thead>
+</table>
 
 
 
